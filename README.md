@@ -19,9 +19,7 @@ _Ever wondered what defined the year 2000 in music? This project brings it to li
 ## Next Moves:
 
 - Have an aesthetic interface using ⚛️ ReactJS
-- Be able to get playlist based on other years and based on mood
 - Create a requirements file for downloading the project
-- Error Handling Management
 - ...
 
 ## How to Try It 🌟 TBD 🌟
