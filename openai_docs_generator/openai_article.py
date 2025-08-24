@@ -70,5 +70,5 @@ cw = ContentWriter()
 article = cw.create_article()
 print(article)
 
-with open("output.md", "w", encoding="utf-8") as chat_response:
+with open("README.md", "w", encoding="utf-8") as chat_response:
     chat_response.write(article)
