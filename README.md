@@ -1,8 +1,8 @@
-# Spotify-Playlist
+# Spotify-Playlist-AI-UseCase
 
 🎶 100 Hits of 2000 – Playlist + AI Article
 
-_Ever wondered what defined the year 2000 in music? This project brings it to life in 100 iconic hits – plus an AI-written article to tell the story behind the tunes._
+_Ever wondered what defined the year 2000 in music? This project brings it to life in 100 iconic hits – plus an AI-written documentation to tell the story behind the code._
 
 ## What’s Inside
 
@@ -14,21 +14,21 @@ _Ever wondered what defined the year 2000 in music? This project brings it to li
 
 🎧 The Ultimate [2000's Playlist](https://open.spotify.com/playlist/6wWH3ogDWQkpi8RJqRX93S) in Spotify.
 
-📰 AI-Powered Article [Medium-style]() to show-case the code.
+📰 AI-Powered Documentation to show-case the code.
 
 ## Next Moves:
 
 - Have an aesthetic interface using ⚛️ ReactJS
-- Create a requirements file for downloading the project
-- ...
 
 ## How to Try It 🌟 TBD 🌟
-
+NOT TESTED YET
 1. Clone the repo.
 
-2. Install dependencies. (TBD)
+2. Install dependencies for Spotify App (see [AI-Doc](https://github.com/Carinaaa/Spotify-Playlist-AI-UseCase/blob/main/openai_docs_generator/README.md))
 
-3. TBD - based on version and automatization level
+3. Install dependencies for OpenAI. Should I ask the model to documents its self? 😅
+
+4. TBD: Check paths since I moved around in new folders....
 
 ## Disclaimer:
 
